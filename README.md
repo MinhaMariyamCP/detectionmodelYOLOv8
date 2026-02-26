@@ -65,9 +65,6 @@ The script loads the trained model and performs segmentation on test images.
 
 ![Prediction 2](val_batch1_pred.jpg)
 
-#### Prediction Sample 3
-
-![Prediction 3](val_batch2_pred.jpg)
 
 ---
 
